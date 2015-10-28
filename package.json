@@ -14,22 +14,12 @@
         "id": "phonegap-plugin-pushipc",
         "platforms": [
             "ios",
-            "android",
-            "windows8",
-            "windows",
-            "wp8",
-            "browser"
+            "android"
         ]
     },
     "keywords": [
         "ecosystem:cordova",
-        "ecosystem:phonegap",
-        "cordova-ios",
-        "cordova-android",
-        "cordova-windows8",
-        "cordova-windows",
-        "cordova-wp8",
-        "cordova-browser"
+        "ecosystem:phonegap"
     ],
     "engines": [
         {
