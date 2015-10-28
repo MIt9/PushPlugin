@@ -1,5 +1,5 @@
 {
-    "name": "phonegap-plugin-push",
+    "name": "phonegap-plugin-pushipc",
     "description": "Register and receive push notifications from puship.com.",
     "version": "1.4.0",
     "homepage": "https://github.com/MIt9/PushPlugin#readme",
